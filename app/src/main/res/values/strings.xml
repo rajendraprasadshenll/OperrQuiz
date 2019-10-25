@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Operr Quiz</string>
+    <string name="operr_driver">Operr Driver</string>
+    <string name="time_remaining">Time Remaining</string>
+    <string name="break_end">Time Over</string>
+    <string name="time_end">time end</string>
+    <string name="timer">%02d:%02d</string>
+    <string name="message">Time Counter running in foreground</string>
+</resources>
